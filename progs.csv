@@ -88,7 +88,7 @@ A,mutt-wizard-git,"is a light-weight terminal-based email system."
 A,vscodium-bin,"VS Code IDE without Microsoft Telemetry."
 ,docker,"is a utility to pack, ship and run any application as a lightweight container."
 ,docker-compose,"is a tool for defining and running multi-container Docker applications."
-A,anaconda,"is a Python distributer catered for multiple environments and package management."
+#A,anaconda,"is a Python distributer catered for multiple environments and package management."
 Gsh,https://github.com/terroo/wallset,"is a A wallpaper manager that makes it possible to put videos as wallpaper."
 # Wallset Dependencies
 ,feh,"Fast and light imlib2-based image viewer."
